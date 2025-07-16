@@ -1,6 +1,6 @@
 <p><img align="center" src="https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg" alt="banner"/></p>
 
-<h1 align="center">phongg_q_</h1>
+<h1 align="center">rinnn31</h1>
 <h3 align="center">software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinnn31&label=Profile%20views&color=0e75b6&style=flat" alt="rinnn31" /> </p>
